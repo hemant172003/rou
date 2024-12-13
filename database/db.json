@@ -1,0 +1,940 @@
+{
+  "Electronics": [
+    {
+      "name": "Tablet",
+      "brand": "Apple",
+      "model": "iPad Air",
+      "price": 599.99,
+      "id": "c5bc"
+    },
+    {
+      "item": "Bluetooth Speak",
+      "warranty": "Boat",
+      "warranty_Id": "c77b",
+      "id": "c77b"
+    },
+    {
+      "name": "Smart TV",
+      "brand": "Samsung",
+      "model": "QLED 4K",
+      "price": 1299.99,
+      "id": "770a"
+    },
+    {
+      "name": "Digital Camera",
+      "brand": "Canon",
+      "model": "EOS R6",
+      "price": 2499.99,
+      "id": "77ac"
+    },
+    {
+      "name": "Gaming Console",
+      "brand": "Sony",
+      "model": "PlayStation 5",
+      "price": 499.99,
+      "id": "5dfb"
+    },
+    {
+      "name": "E-Reader",
+      "brand": "Amazon",
+      "model": "Kindle Paperwhite",
+      "price": 139.99,
+      "id": "64f2"
+    },
+    {
+      "name": "Action Camera",
+      "brand": "GoPro",
+      "model": "Hero 10",
+      "price": 399.99,
+      "id": "4489"
+    },
+    {
+      "name": "Wireless Charger",
+      "brand": "Anker",
+      "model": "PowerWave Pad",
+      "price": 29.99,
+      "id": "1c3e"
+    },
+    {
+      "name": "Home Assistant",
+      "brand": "Amazon",
+      "model": "Echo Dot (4th Gen)",
+      "price": 49.99,
+      "id": "7a9f"
+    },
+    {
+      "name": "Fitness Tracker",
+      "brand": "Fitbit",
+      "model": "Charge 5",
+      "price": 179.95,
+      "id": "6ce5"
+    },
+    {
+      "name": "Portable SSD",
+      "brand": "Samsung",
+      "model": "T7",
+      "price": 89.99,
+      "id": "29af"
+    },
+    {
+      "name": "VR Headset",
+      "brand": "Oculus",
+      "model": "Quest 2",
+      "price": 299.99,
+      "id": "3052"
+    },
+    {
+      "name": "Smart Home Security Camera",
+      "brand": "Ring",
+      "model": "Stick Up Cam",
+      "price": 99.99,
+      "id": "56ea"
+    },
+    {
+      "name": "Streaming Device",
+      "brand": "Roku",
+      "model": "Streaming Stick 4K",
+      "price": 49.99,
+      "id": "cbb0"
+    },
+    {
+      "name": "Noise-Canceling Headphones",
+      "brand": "Sony",
+      "model": "WH-1000XM4",
+      "price": 349.99,
+      "id": "231f"
+    },
+    {
+      "name": "Smart Light Bulb",
+      "brand": "Philips",
+      "model": "Hue White and Color Ambiance",
+      "price": 49.99,
+      "id": "c584"
+    },
+    {
+      "name": "Digital Thermometer",
+      "brand": "Braun",
+      "model": "ThermoScan 7",
+      "price": 59.99,
+      "id": "06f2"
+    },
+    {
+      "name": "Portable Bluetooth Speaker",
+      "brand": "Ultimate Ears",
+      "model": "BOOM 3",
+      "price": 149.99,
+      "id": "b0b4"
+    },
+    {
+      "name": "Smart Plug",
+      "brand": "TP-Link",
+      "model": "Kasa Smart Wi-Fi Plug",
+      "price": 24.99,
+      "id": "dd24"
+    },
+    {
+      "name": "Action Drone",
+      "brand": "DJI",
+      "model": "Mavic Air 2",
+      "price": 799.99,
+      "id": "a358"
+    },
+    {
+      "name": "Home Theater System",
+      "brand": "LG",
+      "model": "LHD657",
+      "price": 299.99,
+      "id": "bc3f"
+    }
+  ],
+  "Medical": [
+    {
+      "name": "Digital Blood Pressure Monitor",
+      "brand": "Omron",
+      "model": "BP786N",
+      "price": 79.99,
+      "id": "cf89"
+    },
+    {
+      "name": "Pulse Oximeter",
+      "brand": "Zacurate",
+      "model": "500BL",
+      "price": 29.99,
+      "id": "ff29"
+    },
+    {
+      "name": "Thermometer",
+      "brand": "iProven",
+      "model": "DMT-489",
+      "price": 39.99,
+      "id": "e252"
+    },
+    {
+      "name": "Nebulizer",
+      "brand": "Drive Medical",
+      "model": "DuoNeb",
+      "price": 59.99,
+      "id": "4699"
+    },
+    {
+      "name": "Glucose Meter",
+      "brand": "Accu-Chek",
+      "model": "Guide",
+      "price": 24.99,
+      "id": "1818"
+    },
+    {
+      "name": "First Aid Kit",
+      "brand": "Lifeline",
+      "model": "First Aid Kit",
+      "price": 19.99,
+      "id": "4321"
+    },
+    {
+      "name": "Electric Heating Pad",
+      "brand": "Sunbeam",
+      "model": "XpressHeat",
+      "price": 29.99,
+      "id": "be6b"
+    },
+    {
+      "name": "CPAP Machine",
+      "brand": "ResMed",
+      "model": "AirSense 10",
+      "price": 849.99,
+      "id": "0d2b"
+    },
+    {
+      "name": "Wheelchair",
+      "brand": "Drive Medical",
+      "model": "Blue Streak",
+      "price": 199.99,
+      "id": "544e"
+    },
+    {
+      "name": "TENS Unit",
+      "brand": "TechCare",
+      "model": "Massager",
+      "price": 39.99,
+      "id": "1e33"
+    },
+    {
+      "name": "Medical Alert System",
+      "brand": "Life Alert",
+      "model": "Emergency Response",
+      "price": 49.99,
+      "id": "6f03"
+    },
+    {
+      "name": "Sphygmomanometer",
+      "brand": "ADC",
+      "model": "Adcuff",
+      "price": 39.99,
+      "id": "e37b"
+    },
+    {
+      "name": "Infrared Thermometer",
+      "brand": "Braun",
+      "model": "No Touch",
+      "price": 49.99,
+      "id": "6841"
+    },
+    {
+      "name": "Mobility Scooter",
+      "brand": "Pride Mobility",
+      "model": "Victory 10",
+      "price": 1899.99,
+      "id": "2ecc"
+    },
+    {
+      "name": "Oxygen Concentrator",
+      "brand": "Inogen",
+      "model": "One G5",
+      "price": 2495,
+      "id": "d3e3"
+    },
+    {
+      "name": "Blood Glucose Test Strips",
+      "brand": "Accu-Chek",
+      "model": "Guide Test Strips",
+      "price": 39.99,
+      "id": "88ae"
+    },
+    {
+      "name": "Personal ECG Monitor",
+      "brand": "Kardia",
+      "model": "Mobile",
+      "price": 99.99,
+      "id": "5027"
+    },
+    {
+      "name": "Portable Ultrasound Machine",
+      "brand": "GE Healthcare",
+      "model": "Vscan Extend",
+      "price": 7000,
+      "id": "454d"
+    },
+    {
+      "name": "Digital Scale",
+      "brand": "Etekcity",
+      "model": "ESF24",
+      "price": 29.99,
+      "id": "5d1c"
+    },
+    {
+      "name": "Fetal Doppler",
+      "brand": "Sonoline",
+      "model": "B",
+      "price": 39.99,
+      "id": "f3e9"
+    },
+    {
+      "name": "Infrared Sauna Blanket",
+      "brand": "HigherDOSE",
+      "model": "Infrared Blanket",
+      "price": 299.99,
+      "id": "5d51"
+    }
+  ],
+  "HouseHold": [
+    {
+      "name": "Vacuum Cleaner",
+      "brand": "Dyson",
+      "model": "V11 Torque Drive",
+      "price": 599.99,
+      "id": "25b3"
+    },
+    {
+      "name": "Air Purifier",
+      "brand": "Honeywell",
+      "model": "HPA300",
+      "price": 249.99,
+      "id": "f755"
+    },
+    {
+      "name": "Coffee Maker",
+      "brand": "Keurig",
+      "model": "K-Elite",
+      "price": 169.99,
+      "id": "d1d8"
+    },
+    {
+      "name": "Blender",
+      "brand": "Ninja",
+      "model": "BN701 Professional",
+      "price": 99.99,
+      "id": "0c93"
+    },
+    {
+      "name": "Microwave Oven",
+      "brand": "Panasonic",
+      "model": "NN-SN966S",
+      "price": 299.99,
+      "id": "2045"
+    },
+    {
+      "name": "Refrigerator",
+      "brand": "Samsung",
+      "model": "RF28R7351SG",
+      "price": 2499.99,
+      "id": "22d3"
+    },
+    {
+      "name": "Washing Machine",
+      "brand": "LG",
+      "model": "WM3900HWA",
+      "price": 1199.99,
+      "id": "ca0d"
+    },
+    {
+      "name": "Dryer",
+      "brand": "Whirlpool",
+      "model": "WED5000DW",
+      "price": 749.99,
+      "id": "250f"
+    },
+    {
+      "name": "Dishwasher",
+      "brand": "Bosch",
+      "model": "SHXM78W55N",
+      "price": 1299.99,
+      "id": "85ee"
+    },
+    {
+      "name": "Electric Kettle",
+      "brand": "Cuisinart",
+      "model": "CPK-17",
+      "price": 79.99,
+      "id": "5272"
+    },
+    {
+      "name": "Toaster",
+      "brand": "Breville",
+      "model": "BTA840XL",
+      "price": 149.95,
+      "id": "6b91"
+    },
+    {
+      "name": "Slow Cooker",
+      "brand": "Crock-Pot",
+      "model": "SCCPVL610-S",
+      "price": 49.99,
+      "id": "ddaf"
+    },
+    {
+      "name": "Air Fryer",
+      "brand": "Philips",
+      "model": "HD9650/96",
+      "price": 299.99,
+      "id": "99d0"
+    },
+    {
+      "name": "Electric Grill",
+      "brand": "George Foreman",
+      "model": "GRP4842P",
+      "price": 79.99,
+      "id": "f969"
+    },
+    {
+      "name": "Steam Mop",
+      "brand": "Bissell",
+      "model": "1940A",
+      "price": 99.99,
+      "id": "868f"
+    },
+    {
+      "name": "Robot Vacuum",
+      "brand": "iRobot",
+      "model": "Roomba 675",
+      "price": 299.99,
+      "id": "a1cb"
+    },
+    {
+      "name": "Pressure Cooker",
+      "brand": "Instant Pot",
+      "model": "Duo 7-in-1",
+      "price": 89.99,
+      "id": "3195"
+    },
+    {
+      "name": "Food Processor",
+      "brand": "Cuisinart",
+      "model": "DFP-14BCNY",
+      "price": 199.99,
+      "id": "a6cb"
+    },
+    {
+      "name": "Humidifier",
+      "brand": "Levoit",
+      "model": "LV600HH",
+      "price": 89.99,
+      "id": "a763"
+    },
+    {
+      "name": "Electric Blanket",
+      "brand": "Sunbeam",
+      "model": "B003F",
+      "price": 49.99,
+      "id": "8c4d"
+    },
+    {
+      "name": "Water Filter Pitcher",
+      "brand": "Brita",
+      "model": "36505",
+      "price": 29.99,
+      "id": "c80e"
+    }
+  ],
+  "clothes": [
+    {
+      "name": "Men's T-Shirt",
+      "brand": "Hanes",
+      "model": "ComfortSoft",
+      "price": 14.99,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": [
+        "Black",
+        "White",
+        "Navy",
+        "Gray"
+      ],
+      "id": "8618"
+    },
+    {
+      "name": "Women's Jeans",
+      "brand": "Levi's",
+      "model": "711 Skinny",
+      "price": 59.99,
+      "size": [
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "color": [
+        "Light Blue",
+        "Dark Blue",
+        "Black"
+      ],
+      "id": "c920"
+    },
+    {
+      "name": "Men's Hoodie",
+      "brand": "Champion",
+      "model": "Powerblend",
+      "price": 39.99,
+      "size": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": [
+        "Red",
+        "Black",
+        "Gray"
+      ],
+      "id": "6e7f"
+    },
+    {
+      "name": "Women's Dress",
+      "brand": "Lark & Ro",
+      "model": "A-Line",
+      "price": 49.99,
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Floral",
+        "Solid Black",
+        "Navy"
+      ],
+      "id": "e0ef"
+    },
+    {
+      "name": "Men's Running Shoes",
+      "brand": "Nike",
+      "model": "Air Zoom Pegasus",
+      "price": 119.99,
+      "size": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "color": [
+        "Black",
+        "White",
+        "Blue"
+      ],
+      "id": "bdc2"
+    },
+    {
+      "name": "Women's Sandals",
+      "brand": "Teva",
+      "model": "Hurricane XLT2",
+      "price": 59.95,
+      "size": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "color": [
+        "Black",
+        "Brown",
+        "Blue"
+      ],
+      "id": "c983"
+    },
+    {
+      "name": "Men's Jacket",
+      "brand": "Columbia",
+      "model": "Watertight II",
+      "price": 89.99,
+      "size": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": [
+        "Black",
+        "Navy",
+        "Red"
+      ],
+      "id": "1e9a"
+    },
+    {
+      "name": "Women's Sweater",
+      "brand": "Amazon Essentials",
+      "model": "Crewneck",
+      "price": 29.99,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Gray",
+        "Beige",
+        "Pink"
+      ],
+      "id": "33ad"
+    },
+    {
+      "name": "Men's Shorts",
+      "brand": "Adidas",
+      "model": "Essentials 3-Stripes",
+      "price": 34.99,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Black",
+        "Gray",
+        "Navy"
+      ],
+      "id": "bf9d"
+    },
+    {
+      "name": "Women's Active Leggings",
+      "brand": "Lululemon",
+      "model": "Align Pant",
+      "price": 98,
+      "size": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "color": [
+        "Black",
+        "Dark Olive",
+        "Blue"
+      ],
+      "id": "39fa"
+    },
+    {
+      "name": "Men's Dress Shirt",
+      "brand": "Van Heusen",
+      "model": "Flex Collar",
+      "price": 39.99,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": [
+        "White",
+        "Light Blue",
+        "Gray"
+      ],
+      "id": "c32d"
+    },
+    {
+      "name": "Women's Blouse",
+      "brand": "Express",
+      "model": "Short Sleeve",
+      "price": 34.9,
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Black",
+        "White",
+        "Red"
+      ],
+      "id": "6772"
+    },
+    {
+      "name": "Men's Swim Trunks",
+      "brand": "Speedo",
+      "model": "Classic",
+      "price": 29.99,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Blue",
+        "Red",
+        "Black"
+      ],
+      "id": "1364"
+    }
+  ],
+  "grocerry": [
+    {
+      "name": "Organic Whole Wheat Bread",
+      "brand": "Dave's Killer Bread",
+      "model": "21 Whole Grains and Seeds",
+      "price": 5.49,
+      "weight": "24 oz",
+      "id": "2dbf"
+    },
+    {
+      "name": "Almond Milk",
+      "brand": "Silk",
+      "model": "Unsweetened Vanilla",
+      "price": 2.99,
+      "volume": "64 fl oz",
+      "id": "b8b7"
+    },
+    {
+      "name": "Brown Rice",
+      "brand": "Lundberg",
+      "model": "Organic Long Grain",
+      "price": 3.99,
+      "weight": "32 oz",
+      "id": "7518"
+    },
+    {
+      "name": "Canned Black Beans",
+      "brand": "Goya",
+      "model": "Black Beans",
+      "price": 1.29,
+      "weight": "15 oz",
+      "id": "e808"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "brand": "Bertolli",
+      "model": "Extra Virgin",
+      "price": 6.99,
+      "volume": "16.9 fl oz",
+      "id": "66e4"
+    },
+    {
+      "name": "Organic Spinach",
+      "brand": "Earthbound Farm",
+      "model": "Organic Baby Spinach",
+      "price": 3.49,
+      "weight": "5 oz",
+      "id": "7641"
+    },
+    {
+      "name": "Chicken Breast",
+      "brand": "Perdue",
+      "model": "Fresh Boneless Skinless",
+      "price": 9.99,
+      "weight": "1.5 lbs",
+      "id": "c7c8"
+    },
+    {
+      "name": "Greek Yogurt",
+      "brand": "Chobani",
+      "model": "Non-Fat Plain",
+      "price": 1.25,
+      "weight": "5.3 oz",
+      "id": "a1a8"
+    },
+    {
+      "name": "Frozen Mixed Vegetables",
+      "brand": "Birds Eye",
+      "model": "Steamfresh",
+      "price": 2.49,
+      "weight": "12 oz",
+      "id": "2a63"
+    },
+    {
+      "name": "Granola Bars",
+      "brand": "Nature Valley",
+      "model": "Crunchy Granola Bars",
+      "price": 3.99,
+      "weight": "12 bars",
+      "id": "088b"
+    },
+    {
+      "name": "Peanut Butter",
+      "brand": "Jif",
+      "model": "Creamy Peanut Butter",
+      "price": 3.49,
+      "weight": "28 oz",
+      "id": "fecc"
+    },
+    {
+      "name": "Pasta",
+      "brand": "Barilla",
+      "model": "Spaghetti",
+      "price": 1.99,
+      "weight": "16 oz",
+      "id": "5d3c"
+    },
+    {
+      "name": "Tomato Sauce",
+      "brand": "Hunt's",
+      "model": "Diced Tomatoes",
+      "price": 1.29,
+      "weight": "14.5 oz",
+      "id": "9f26"
+    },
+    {
+      "name": "Apples",
+      "brand": "Honeycrisp",
+      "model": "Fresh Apples",
+      "price": 1.99,
+      "weight": "per lb",
+      "id": "0b4c"
+    },
+    {
+      "name": "Bananas",
+      "brand": "Chiquita",
+      "model": "Fresh Bananas",
+      "price": 0.59,
+      "weight": "per lb",
+      "id": "356a"
+    },
+    {
+      "name": "Eggs",
+      "brand": "Eggland's Best",
+      "model": "Large Grade A",
+      "price": 3.99,
+      "count": "12 eggs",
+      "id": "329e"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "brand": "Sargento",
+      "model": "Shredded Cheddar Cheese",
+      "price": 4.49,
+      "weight": "8 oz",
+      "id": "36d2"
+    },
+    {
+      "name": "Coffee",
+      "brand": "Starbucks",
+      "model": "Pike Place Roast",
+      "price": 9.99,
+      "weight": "12 oz",
+      "id": "767f"
+    },
+    {
+      "name": "Dark Chocolate Bar",
+      "brand": "Lindt",
+      "model": "Excellence 70% Cocoa",
+      "price": 3.49,
+      "weight": "3.5 oz",
+      "id": "583a"
+    },
+    {
+      "name": "Honey",
+      "brand": "Nature Nate's",
+      "model": "100% Pure Raw Honey",
+      "price": 7.99,
+      "weight": "16 oz",
+      "id": "bcc9"
+    }
+  ],
+  "customers": [
+    {
+      "customerName": "John Doe",
+      "customer_ID": 101,
+      "email": "johndoe@example.com",
+      "contact": 1234567890,
+      "add": "123 Elm Street, Springfield, IL",
+      "id": "f82c"
+    },
+    {
+      "customerName": "Jane Smith",
+      "customer_ID": 102,
+      "email": "janesmith@example.com",
+      "contact": 2345678901,
+      "add": "456 Oak Avenue, Metropolis, NY",
+      "id": "f2a5"
+    },
+    {
+      "customerName": "Alice Johnson",
+      "customer_ID": 103,
+      "email": "alicejohnson@example.com",
+      "contact": 3456789012,
+      "add": "789 Pine Road, Gotham, NJ",
+      "id": "4e76"
+    },
+    {
+      "customerName": "Bob Brown",
+      "customer_ID": 104,
+      "email": "bobbrown@example.com",
+      "contact": 4567890123,
+      "add": "321 Maple Lane, Star City, CA",
+      "id": "8a66"
+    },
+    {
+      "customerName": "Charlie Davis",
+      "customer_ID": 105,
+      "email": "charliedavis@example.com",
+      "contact": 5678901234,
+      "add": "654 Cedar Street, Central City, TX",
+      "id": "28b6"
+    },
+    {
+      "id": "ab2c",
+      "userName": "df",
+      "email": "hemant172003@gmail.com",
+      "password": "dfdfdf",
+      "contact": "454545",
+      "address": "dfgfdgfdgfdf"
+    },
+    {
+      "id": "1ed5",
+      "userName": "njhnj",
+      "email": "he@gmail.com",
+      "password": "dffgg",
+      "contact": "4545455",
+      "address": "4545455"
+    },
+    {
+      "id": "6a93",
+      "userName": "Hemant",
+      "email": "hemant1@gmail.com",
+      "password": "1234567",
+      "contact": "546765542",
+      "address": "mfkdfd"
+    },
+    {
+      "id": "20f0",
+      "userName": "Hemant12",
+      "email": "hemant17@gmail.com",
+      "password": "123",
+      "contact": "54646",
+      "address": "kjkjdkfj"
+    },
+    {
+      "id": "344d",
+      "userName": "Shivam",
+      "email": "shivam1@gmail.com",
+      "password": "1234",
+      "contact": "12345",
+      "address": "klkmfldkfl"
+    }
+  ],
+  "orders": []
+}

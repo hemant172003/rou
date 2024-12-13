@@ -1,0 +1,112 @@
+
+.card {
+  border: 1px solid #ddd; 
+  border-radius: 10px; 
+  padding: 20px; 
+  height: 450px; 
+  width: 280px; 
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 10px rgba(251, 247, 247, 0.9); 
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background-color: #43bb4f; 
+}
+
+.card:hover {
+  transform: translateY(-5px); 
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2); 
+}
+
+
+.card .img {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 180px;
+  width: 180px; 
+  border-radius: 50%;
+  border: 2px solid #333; 
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.card .img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+
+.card h1 {
+  margin-top: 15px;
+  text-align: center; 
+  font-size: 1.5rem;
+  color: #333; 
+  font-weight: bold;
+}
+
+
+.card p {
+  margin-left: 0;
+  margin-top: 15px;
+  font-size: 16px; 
+  color: #555; 
+  line-height: 1.5;
+  text-align: center; 
+}
+
+
+.card .update, .card .delete {
+  margin-top: 20px;
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer; 
+  transition: background-color 0.3s ease;
+}
+
+.card .update {
+  background-color: #f2ff00; 
+  color: white;
+}
+
+.card .update:hover {
+  background-color: #0056b3; 
+}
+
+.card .delete {
+  background-color: #a72828;
+  color: white;
+  margin-top: 10px; 
+}
+
+.card .delete:hover {
+  background-color: #218838; 
+}
+
+
+@media (max-width: 768px) {
+  .card {
+    width: 100%; 
+    height: auto; 
+    margin: 0 auto; 
+  }
+
+  .card .img {
+    height: 160px;
+    width: 160px;
+  }
+
+  .card h1 {
+    font-size: 1.25rem; 
+  }
+
+  .card p {
+    font-size: 14px; 
+  }
+}
